@@ -1,0 +1,183 @@
+{
+	"id": "01113544-b272-b57b-a880-51ab4a171d9c",
+	"name": "Employee",
+	"description": "",
+	"order": [
+		"fd0ad86e-693a-9104-6d7d-fd93c50b1130",
+		"9959931b-b572-5f31-7fb5-c06bfa662b4d",
+		"cadda882-ad68-6493-dc1a-45b9f63bbd2f",
+		"46133bd4-7b0b-fdfe-93ee-07036afaf4ec",
+		"c457bd8d-4af8-ac26-ea22-b83998885e1e"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1606621701986,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "46133bd4-7b0b-fdfe-93ee-07036afaf4ec",
+			"headers": "Authorization: Basic VGVzdFVzZXIzOTpDS0wpNH15bF1WaCQ=\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Basic VGVzdFVzZXIzOTpDS0wpNH15bF1WaCQ=",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://wmxrwq14uc.execute-api.us-east-1.amazonaws.com/Prod/api/employees/75a03b8e-0b56-4c01-87a9-5273847680f6",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "01113544-b272-b57b-a880-51ab4a171d9c",
+			"data": null,
+			"dataMode": "params",
+			"name": "getEmployee",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1606622507737,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "9959931b-b572-5f31-7fb5-c06bfa662b4d",
+			"headers": "Authorization: Basic VGVzdFVzZXIzOTpDS0wpNH15bF1WaCQ=\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Basic VGVzdFVzZXIzOTpDS0wpNH15bF1WaCQ=",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://wmxrwq14uc.execute-api.us-east-1.amazonaws.com/Prod/api/employees/75a03b8e-0b56-4c01-87a9-5273847680f6",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "DELETE",
+			"collectionId": "01113544-b272-b57b-a880-51ab4a171d9c",
+			"data": null,
+			"dataMode": "params",
+			"name": "deleteEmployee",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1606622094949,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "c457bd8d-4af8-ac26-ea22-b83998885e1e",
+			"headers": "Authorization: Basic VGVzdFVzZXIzOTpDS0wpNH15bF1WaCQ=\nContent-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Basic VGVzdFVzZXIzOTpDS0wpNH15bF1WaCQ=",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://wmxrwq14uc.execute-api.us-east-1.amazonaws.com/Prod/api/employees",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "PUT",
+			"collectionId": "01113544-b272-b57b-a880-51ab4a171d9c",
+			"data": [],
+			"dataMode": "raw",
+			"name": "updateEmployee",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1606622716175,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n\t\"id\": \"75a03b8e-0b56-4c01-87a9-5273847680f6\",\r\n    \"firstName\": \"Test\",\r\n    \"lastName\": \"User3\",\r\n    \"dependants\": 1\r\n}"
+		},
+		{
+			"id": "cadda882-ad68-6493-dc1a-45b9f63bbd2f",
+			"headers": "Authorization: Basic VGVzdFVzZXIzOTpDS0wpNH15bF1WaCQ=\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Basic VGVzdFVzZXIzOTpDS0wpNH15bF1WaCQ=",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://wmxrwq14uc.execute-api.us-east-1.amazonaws.com/Prod/api/employees",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "01113544-b272-b57b-a880-51ab4a171d9c",
+			"data": null,
+			"dataMode": "params",
+			"name": "getEmployeesList",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1606622474944,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "fd0ad86e-693a-9104-6d7d-fd93c50b1130",
+			"headers": "Authorization: Basic VGVzdFVzZXIzOTpDS0wpNH15bF1WaCQ=\nContent-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "Basic VGVzdFVzZXIzOTpDS0wpNH15bF1WaCQ=",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://wmxrwq14uc.execute-api.us-east-1.amazonaws.com/Prod/api/employees",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "01113544-b272-b57b-a880-51ab4a171d9c",
+			"data": [],
+			"dataMode": "raw",
+			"name": "addEmployee",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1606622000151,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"firstName\": \"Test\",\r\n    \"lastName\": \"User3\",\r\n    \"dependants\": 2\r\n}"
+		}
+	]
+}

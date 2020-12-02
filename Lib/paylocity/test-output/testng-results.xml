@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-30T06:29:26Z" name="Default suite" finished-at="2020-11-30T06:29:34Z" duration-ms="7786">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.paylocity.automation.runner.Employee_Test@1356d4d4]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2020-11-30T06:29:26Z" name="Default test" finished-at="2020-11-30T06:29:34Z" duration-ms="7786">
+      <class name="com.paylocity.automation.runner.Employee_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.paylocity.automation.runner.Employee_Test@1356d4d4]" started-at="2020-11-30T11:59:17Z" name="setUp" finished-at="2020-11-30T11:59:26Z" duration-ms="9646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.paylocity.automation.runner.Employee_Test@1356d4d4]" started-at="2020-11-30T11:59:26Z" name="setUpClass" finished-at="2020-11-30T11:59:27Z" duration-ms="812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.paylocity.automation.runner.Employee_Test@1356d4d4]" started-at="2020-11-30T11:59:27Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-11-30T11:59:34Z" duration-ms="6262" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Delete Employee"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Employee]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.paylocity.automation.runner.Employee_Test@1356d4d4]" started-at="2020-11-30T11:59:34Z" name="tearDownClass" finished-at="2020-11-30T11:59:34Z" duration-ms="682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.paylocity.automation.runner.Employee_Test@1356d4d4]" started-at="2020-11-30T11:59:34Z" name="tearDown" finished-at="2020-11-30T11:59:35Z" duration-ms="941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.paylocity.automation.runner.Employee_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

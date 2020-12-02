@@ -1,0 +1,115 @@
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Login       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - ...Username is editable
+INFO  com.paylocity.automation.utils.Log - ...Entered value in : Username
+INFO  com.paylocity.automation.utils.Log - ...Password is editable
+INFO  com.paylocity.automation.utils.Log - ...Entered value in : Password
+INFO  com.paylocity.automation.utils.Log - ...Clicked on : Log In
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Verify Benefits Dashboard       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Add Employee       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - ...Clicked on : Add Employee
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Enter Employee Details       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - ...FirstName is editable
+INFO  com.paylocity.automation.utils.Log - ...Entered value in : FirstName
+INFO  com.paylocity.automation.utils.Log - ...Lastname is editable
+INFO  com.paylocity.automation.utils.Log - ...Entered value in : Lastname
+INFO  com.paylocity.automation.utils.Log - ...Dependents is editable
+INFO  com.paylocity.automation.utils.Log - ...Entered value in : Dependents
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Save Record       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - ...Clicked on : Add
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Verify New Record       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Verify Benefit Cost Calculations       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Login       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Verify Benefits Dashboard       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Edit Employee       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - ...Clicked on : Edit Employee
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Edit Employee Details       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - ...Dependents is editable
+INFO  com.paylocity.automation.utils.Log - ...Entered value in : Dependents
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Verify Benefit Cost Calculations After Edit       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - ...Clicked on : Update
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Login       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Verify Benefits Dashboard       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Delete Employee       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - ...Clicked on : X
+INFO  com.paylocity.automation.utils.Log - ...Clicked on : Delete Employee
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - $$$$$$$$$$$$$$$$$$$$$            Verify Delete Employee       $$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO  com.paylocity.automation.utils.Log - ****************************************************************************************
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXX          -E---N---D-     XXXXXXXXXXXXXXXXXXXXXXXXXXX
+INFO  com.paylocity.automation.utils.Log - XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
